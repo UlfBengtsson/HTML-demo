@@ -2,3 +2,22 @@ body {
     background-color: lightslategray;
     padding: 20px;
 }
+
+#intro {
+    background-color: aquamarine;
+}
+
+#formInputs {
+    background-color: cadetblue;
+    height: 10vh;
+}
+
+.sectionText {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.oddText {
+    text-align: right;
+    font-style: italic;
+}
