@@ -25,6 +25,8 @@ body {
 
 header {
     width: 1024px;
+    display: flex;
+    background-color: DodgerBlue;
 }
 
 main {
