@@ -1,6 +1,7 @@
 body {
     background-color: lightslategray;
     padding: 20px;
+    width: 1024px;
 }
 
 #intro {
@@ -20,4 +21,22 @@ body {
 .oddText {
     text-align: right;
     font-style: italic;
+}
+
+header {
+    width: 1024px;
+}
+
+main {
+    width: 1024px;
+}
+
+header > nav > ol {
+    list-style: none;
+}
+header > nav > ol > li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    background-color: bisque;
 }
